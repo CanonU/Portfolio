@@ -23,7 +23,7 @@ OOP graphics based calculator with square roots, cubes, squares and more.
 
 ### ZOOG
 OOP graphics baised objects with movement, bouncing, mouse tracking, and much more.
-![ZOOG](https://github.com/CanonU/programming2/blob/main/images/Spacegame%20Welcome.png?raw=true](https://github.com/CanonU/programming2/blob/main/images/Zoog.png?raw=true)
+![ZOOG](https://github.com/CanonU/programming2/blob/main/images/Zoog.png?raw=true)
 
 [SourceCode](https://github.com/CanonU/programming2/blob/main/src/ZOOG.zip)https://github.com/CanonU/programming2/blob/main/src/ZOOG.zip)
 
