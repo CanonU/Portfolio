@@ -1,4 +1,5 @@
 # Canon Unguren | Programming Portfolio
+Skyline High School Computer Programming 1-2
 
 ## Certifications
 - Programming 1 USOE Certification
@@ -8,7 +9,7 @@
 ## Individual Projects
 
 ### SpaceGame
-OOP graphics games spotlighting objects for user interaction that includes sound and animation.
+OOP graphics games spotlighting objects for user interaction that includes sound, animation, Powerup original artwork created in piskel.
 ![SpaceGame Menu](https://github.com/CanonU/programming2/blob/main/images/Spacegame%20Welcome.png?raw=true)
 ![SpaceGame Gameplay](https://github.com/CanonU/programming2/blob/main/images/Spacegame%20gameplay.png?raw=true)
 ![SpaceGame Gameover](https://github.com/CanonU/programming2/blob/main/images/Spacegame%20Gameover.png?raw=true)
