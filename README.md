@@ -28,12 +28,12 @@ OOP graphics baised objects with movement, bouncing, mouse tracking, and much mo
 
 ### EtchASketch
 OOP graphics baised objects with movement, bouncing, mouse tracking, and much more.
-![ZOOG](https://github.com/CanonU/programming2/blob/main/images/Zoog.png?raw=true)
+![EtchASketch](https://github.com/CanonU/programming2/blob/main/images/etchASketch.png?raw=true)
 [SourceCode](https://github.com/CanonU/programming2/blob/main/src/etchASketch.zip)
 
 ### ScreenSaver
 OOP graphics baised objects with movement, bouncing, mouse tracking, and much more.
-![ZOOG](https://github.com/CanonU/programming2/blob/main/images/Zoog.png?raw=true)
+![ScreenSaver](https://github.com/CanonU/programming2/blob/main/images/Zoog.png?raw=true)
 [SourceCode](https://github.com/CanonU/programming2/blob/main/src/ZOOG.zip)
 
 
