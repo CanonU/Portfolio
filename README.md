@@ -2,7 +2,7 @@
 Skyline High School Computer Programming 1-2
 
 ## Certifications
-- Programming 1 USOE Certification
+- [Programming 1 USOE Certification](https://github.com/CanonU/programming2/blob/main/pdf/ComputerProgramming1.pdf)
 
 ## Group Projects   
 
