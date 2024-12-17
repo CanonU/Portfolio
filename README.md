@@ -1,4 +1,4 @@
-# Canon Unguren | Programming Portfolio
+# Canon Unguren | Programming Portfolio & Game Development
 Skyline High School Computer Programming 1-2
 
 ## Certifications
