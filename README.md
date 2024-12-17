@@ -15,7 +15,7 @@
 ### Pebbles
 Pebbles is an interactive python tycoon game where you mine a rock and unlock many diferent upgrades to get more and more pebbles. 
 
-![Pebbles Gameplay](https://github.com/CanonU/Portfolio/blob/main/images/PebblesGameplay.png)
+![Pebbles Gameplay](https://github.com/CanonU/Portfolio/blob/main/images/PebblesGameplay.png?raw=true)
 
 [Pebbles](https://github.com/Jameslassen1/Clickforpoints/tree/main)
 
