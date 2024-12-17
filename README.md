@@ -1,7 +1,7 @@
 # Canon Unguren | Programming Portfolio & Game Development
 ### [Email Canon Unguren](mailto:c.unguren1@gmail.com)
 ### Classes
-* Skyline High School Computer Programming 1-2
+- Skyline High School Computer Programming 1-2
 - Skyline High School Game Development 1
 
 ## Certifications
@@ -12,6 +12,7 @@
 - [C+ Certification](https://github.com/CanonU/Portfolio/blob/main/pdf/C%2BCertification.pdf)
 
 ## Group Projects   
+![title](link)
 [Click for Points](https://github.com/Jameslassen1/Clickforpoints/tree/main)
 
 ## Individual Projects
