@@ -12,6 +12,7 @@
 - [C+ Certification](https://github.com/CanonU/Portfolio/blob/main/pdf/C%2BCertification.pdf)
 
 ## Group Projects   
+### Click For Points
 ![title](link)
 [Click for Points](https://github.com/Jameslassen1/Clickforpoints/tree/main)
 
