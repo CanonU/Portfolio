@@ -3,6 +3,10 @@ Skyline High School Computer Programming 1-2
 
 ## Certifications
 - [Programming 1 USOE Certification](https://github.com/CanonU/programming2/blob/main/pdf/ComputerProgramming1.pdf)
+- [C+ Certification](https://github.com/CanonU/Portfolio/blob/main/pdf/C%2BCertification.pdf)
+- [Game Development Certification](https://github.com/CanonU/Portfolio/blob/main/pdf/GameDevelopmentCertification.pdf)
+- [Java Certification](https://github.com/CanonU/Portfolio/blob/main/pdf/JavaCertification.pdf)
+- [Python Certification](https://github.com/CanonU/Portfolio/blob/main/pdf/PythonCertification.pdf)
 
 ## Group Projects   
 
