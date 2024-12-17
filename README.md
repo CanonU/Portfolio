@@ -1,5 +1,6 @@
 # Canon Unguren | Programming Portfolio & Game Development
 Skyline High School Computer Programming 1-2
+Skyline High School Game Development 1
 
 ## Certifications
 - [Programming 1 USOE Certification](https://github.com/CanonU/programming2/blob/main/pdf/ComputerProgramming1.pdf)
