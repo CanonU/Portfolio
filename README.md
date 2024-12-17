@@ -21,6 +21,8 @@ Pebbles is an interactive python tycoon game where you mine a rock and unlock ma
 
 ### GoblinSurvivor
 Rogue like. You control a single character that is in the center of the screen and the game sends the hordes to kill you. You start with an ability to kill the enemies and killing the enemies gives you the experience to level up and get more abilities. All abilities can be leveled up instead of getting a new one to kill more enemies. The longer it goes on the harder the enemies become. The score in the game is to see how long you can survive.
+
+I contributed to around 1/2 of the coding related to this game, including calling the animations. 
 ![GoblinSurvivor Gameplay](https://github.com/CanonU/Portfolio/blob/main/images/GoblinSurvivorGameplay.png)
 
 [Goblin Survivor](https://github.com/Masterpaul562/gamedevteam3)
