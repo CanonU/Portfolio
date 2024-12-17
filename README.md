@@ -14,7 +14,6 @@
 ## Group Projects   
 ### Click For Points
 ![Click For Points Gameplay](https://github.com/CanonU/Portfolio/blob/main/images/ClickForPointsGameplay.png)
-![title](link)
 [Click for Points](https://github.com/Jameslassen1/Clickforpoints/tree/main)
 
 ## Individual Projects
