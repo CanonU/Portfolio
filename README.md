@@ -1,4 +1,4 @@
-# Canon Unguren | Programming Portfolio & Game Development
+# Canon Unguren | Programming & Game Development Portfolio
 ### [Email Canon Unguren](mailto:c.unguren1@gmail.com)
 ### Classes
 - Skyline High School Computer Programming 1-2
