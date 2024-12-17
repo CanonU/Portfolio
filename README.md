@@ -12,11 +12,17 @@
 - [C+ Certification](https://github.com/CanonU/Portfolio/blob/main/pdf/C%2BCertification.pdf)
 
 ## Group Projects   
-### Click For Points
-Click for points is an interactive python tycoon game where you mine a rock and unlock many diferent upgrades to get more and more rocks. 
-![Click For Points Gameplay](https://github.com/CanonU/Portfolio/blob/main/images/ClickForPointsGameplay.png)
-[Click for Points](https://github.com/Jameslassen1/Clickforpoints/tree/main)
+### Pebbles
+Pebbles is an interactive python tycoon game where you mine a rock and unlock many diferent upgrades to get more and more pebbles. 
+![Pebbles Gameplay](https://github.com/CanonU/Portfolio/blob/main/images/PebblesGameplay.png)
 
+[Pebbles](https://github.com/Jameslassen1/Clickforpoints/tree/main)
+
+### GoblinSurvivor
+Rogue like. You control a single character that is in the center of the screen and the game sends the hordes to kill you. You start with an ability to kill the enemies and killing the enemies gives you the experience to level up and get more abilities. All abilities can be leveled up instead of getting a new one to kill more enemies. The longer it goes on the harder the enemies become. The score in the game is to see how long you can survive.
+![GoblinSurvivor Gameplay](https://github.com/CanonU/Portfolio/blob/main/images/GoblinSurvivorGameplay.png)
+
+[Goblin Survivor](https://github.com/Masterpaul562/gamedevteam3)
 ## Individual Projects
 
 ### SpaceGame
