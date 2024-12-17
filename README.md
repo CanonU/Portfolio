@@ -13,6 +13,7 @@
 
 ## Group Projects   
 ### Click For Points
+Click for points is an interactive python tycoon game where you mine a rock and unlock many diferent upgrades to get more and more rocks. 
 ![Click For Points Gameplay](https://github.com/CanonU/Portfolio/blob/main/images/ClickForPointsGameplay.png)
 [Click for Points](https://github.com/Jameslassen1/Clickforpoints/tree/main)
 
