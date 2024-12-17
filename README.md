@@ -4,10 +4,10 @@ Skyline High School Game Development 1
 
 ## Certifications
 - [Programming 1 USOE Certification](https://github.com/CanonU/programming2/blob/main/pdf/ComputerProgramming1.pdf)
-- [C+ Certification](https://github.com/CanonU/Portfolio/blob/main/pdf/C%2BCertification.pdf)
 - [Game Development Certification](https://github.com/CanonU/Portfolio/blob/main/pdf/GameDevelopmentCertification.pdf)
-- [Java Certification](https://github.com/CanonU/Portfolio/blob/main/pdf/JavaCertification.pdf)
 - [Python Certification](https://github.com/CanonU/Portfolio/blob/main/pdf/PythonCertification.pdf)
+- [Java Certification](https://github.com/CanonU/Portfolio/blob/main/pdf/JavaCertification.pdf)
+- [C+ Certification](https://github.com/CanonU/Portfolio/blob/main/pdf/C%2BCertification.pdf)
 
 ## Group Projects   
 [Click for Points](https://github.com/Jameslassen1/Clickforpoints/tree/main)
