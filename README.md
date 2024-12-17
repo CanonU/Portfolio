@@ -9,6 +9,7 @@ Skyline High School Computer Programming 1-2
 - [Python Certification](https://github.com/CanonU/Portfolio/blob/main/pdf/PythonCertification.pdf)
 
 ## Group Projects   
+[Click for Points](https://github.com/Jameslassen1/Clickforpoints/tree/main)
 
 ## Individual Projects
 
